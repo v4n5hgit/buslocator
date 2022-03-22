@@ -1,5 +1,4 @@
 # Find My Bus App UI
-A clone of the Instagram App UI.
 
 ## Table of contents
 * [General info](#general-info)
